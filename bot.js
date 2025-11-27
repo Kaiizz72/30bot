@@ -1,7 +1,7 @@
 const mineflayer = require('mineflayer')
 
 const SERVER_HOST = 'node1.lumine.asia'
-const SERVER_PORT = 25575
+const SERVER_PORT = 25675
 const AUTH_MODE = 'offline'
 
 const JOIN_DELAY = 9000 // 4s mỗi bot
