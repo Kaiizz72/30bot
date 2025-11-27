@@ -6,8 +6,8 @@ const SERVER_HOST = 'node1.lumine.asia'
 const SERVER_PORT = 25675
 const AUTH_MODE = 'offline'
 
-const JOIN_DELAY = 4000
-const REJOIN_DELAY = 5000
+const JOIN_DELAY = 8000
+const REJOIN_DELAY = 10000
 
 const ATTACK_RANGE = 3.2        // tầm đánh an toàn
 const ATTACK_DELAY_MIN = 600
